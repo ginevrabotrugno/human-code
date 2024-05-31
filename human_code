@@ -1,0 +1,81 @@
+--------------------------------------------------------------------------------
+Fare la spesa seguendo una lista
+Fatti mandare dalla mamma a prendere il latte
+Nel frigo si inizia a sentire l’eco, perciò è ora di fare rifornimenti!
+Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca in una lista, così una volta al supermercato, girando tra gli scaffali, posso verificare di aver preso tutto e Ricky non rimane senza crocchette come l’ultima volta, povero! Devo ricordarmi di usare il coupon che scade a fine mese, per il resto dovrebbero bastarmi i contanti che ho in portafogli, sempre se non mi faccio prendere la mano con gli snack extra!
+--------------------------------------------------------------------------------
+
+//FARE LA SPESA
+
+1-fare la lista
+
+-lista di quello che mi serve
+- controllare frigo/dispensa (crocchette per Ricky!!)
+- dividere cosa manca per articoli 
+    SE non ho l'articolo, aggiungo  alla lista                   
+    ALTRIMENTI, controllo l'articolo successivo
+- aggiungo alla lista quello che manca 
+
+FACCIO LA LISTA
+
+
+2-prepararsi per uscire 
+
+- prendere il coupon
+- prendere portafogli
+-controllare meteo
+    SE fuori piove
+	    - metto una giacca
+		-prendo un ombrello
+    ALTRIMENTI
+		- indosso una maglietta
+
+-controllare supermecato aperto
+		SE è aperto
+            -esco
+		ALTRIMENTI
+            -rimando
+
+ESCO 
+
+
+4-decidere come arrivare
+
+	SE è vicino
+        -vado a piedi
+	ALTRIMENTI 
+        -prendo la macchina
+
+VADO AL SUPERMERCATO
+
+
+
+
+5-spuntare lista della spesa
+
+-prendo la lista della spesa
+-prendo il carrello
+-cerco articolo nel supermercato nei reparti
+    SE non c'è
+        -cerco un'alternativa 
+        -chiedo al personale
+	ALTRIMENTI 
+        -metto nel carrello
+    FINCHE' LA LISTA NON E' SPUNTATA
+
+
+
+6-pagamento
+
+- uso il coupon
+    SE il coupon non è scaduto
+        -utilizzo questo
+    ALTRIMENTI 
+        -uso i contanti nel portafogli
+- pago il restante con i contanti nel portafogli
+	SE non bastano
+        -pago con la carta
+	ALTRIMENTI 
+        -uso i contanti
+        
+PAGO
